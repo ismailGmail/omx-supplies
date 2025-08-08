@@ -1,0 +1,19 @@
+{
+  "welcome_message": "Dobrodošli v OMX Supplies!",
+  "add_to_cart": "Dodaj v košarico",
+  "your_cart": "Vaša košarica",
+  "cart_empty": "Košarica je prazna.",
+  "total": "Skupaj",
+  "corporate_offer": "Ponudba za podjetja",
+  "corporate_offer_form": "Obrazec za ponudbo za podjetja",
+  "company_name": "Ime podjetja",
+  "tax_id": "Davčna številka",
+  "select_employees": "Število zaposlenih",
+  "interested_in": "Zanima me",
+  "additional_note": "Dodatna opomba",
+  "submit": "Pošlji",
+  "form_submitted": "Obrazec uspešno poslan!",
+  "product_not_found": "Izdelka ni mogoče najti.",
+  "search_placeholder": "Ürün ara..."
+
+}

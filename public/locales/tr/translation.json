@@ -1,0 +1,19 @@
+{
+  "welcome_message": "OMX Supplies'a Hoş Geldiniz!",
+  "add_to_cart": "Sepete ekle",
+  "your_cart": "Sepetiniz",
+  "cart_empty": "Sepetiniz boş.",
+  "total": "Toplam",
+  "corporate_offer": "Kurumsal Teklif",
+  "corporate_offer_form": "Kurumsal Teklif Formu",
+  "company_name": "Şirket Adı",
+  "tax_id": "Vergi Numarası",
+  "select_employees": "Çalışan sayısı",
+  "interested_in": "İlgilendiğiniz ürünler",
+  "additional_note": "Ek açıklama",
+  "submit": "Gönder",
+  "form_submitted": "Form başarıyla gönderildi!",
+  "product_not_found": "Ürün bulunamadı.",
+  "search_placeholder": "Ürün ara..."
+
+}
